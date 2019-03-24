@@ -10,7 +10,10 @@ namespace Exemplos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ola novo testee");
+            int idade = 37;
+
+           
+            Console.WriteLine("Idade : "+ idade + "parabens");
             Console.ReadLine(); 
         }
     }
